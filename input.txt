@@ -1,0 +1,5 @@
+Welcome to the world of programming! 
+Learning how to read and write files is an essential skill for any developer. 
+This content will be modified in the next steps.
+Stay tuned for more examples and coding tips.
+Thank you for reading!
